@@ -1,0 +1,64 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    color: #222222;
+    margin: 50px;
+    text-align: center;
+
+    background-image:
+    radial-gradient(circle at 15% 15%, #8ecaff 0 190px, transparent 192px),
+    radial-gradient(circle at 95% 65%, #4da6e8 0 180px, transparent 182px),
+    radial-gradient(circle at 30% 100%, #b5dcff 0 80px, transparent 82px),
+    radial-gradient(circle at 75% 5%, #a4d5ff 0 75px, transparent 77px),
+    radial-gradient(circle at 78% 25%, #5ba9e6 0 15px, transparent 17px),
+    radial-gradient(circle at 25% 75%, #78bdf2 0 25px, transparent 27px),
+    radial-gradient(circle at 65% 85%, #8ecaff 0 12px, transparent 14px),
+    radial-gradient(circle at 42% 30%, transparent 0 70px, white 72px 76px, transparent 78px),
+    radial-gradient(circle at 5% 65%, transparent 0 75px, white 77px 81px, transparent 83px),
+    radial-gradient(circle at 95% 20%, transparent 0 65px, white 67px 71px, transparent 73px);
+
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: #005b96;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 600px;
+    margin: 20px auto;
+}
+h1 {
+    color: #005b96;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    text-align: center;
+    font-weight: bold;
+}
+p {
+    color: #222222;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center;
+}
+h2 {
+    color: #0077b6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 26px;
+    text-align: center;
+}
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 15px;
+    border: 3px solid #5ba9e6;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+}
